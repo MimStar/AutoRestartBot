@@ -1,0 +1,16 @@
+{
+  "name": "autorestartbot",
+  "version": "1.0.0",
+  "description": "A bot that restarts an OBS stream everyday at midnight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "MimStar",
+  "license": "MIT",
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "obs-websocket-js": "^5.0.5"
+  }
+}
