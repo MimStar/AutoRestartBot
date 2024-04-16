@@ -6,7 +6,7 @@
 
 # How to use the bot
 
-1. Go to OBS > Tools > Websocket Server 
+1. Go to OBS > Tools > Websocket Server to activate the Websocket Server and change the configuration
 
 2. Change the parameters inside **server.js** like the port in the url or the password for example
 
